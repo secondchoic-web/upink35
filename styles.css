@@ -1,31 +1,32 @@
 /* Place your CSS styles in this file */
-body{background-color: rgba(255, 109, 182, 0.663);}
+body{background-color: rgba(14, 36, 101, 0.816);}
 h1 {
     text-align: center;
-    font-family: cursive;
-    font-weight: normal;
-    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 60px;
     color: rgb(245, 218, 234);
     letter-spacing: 2px;
 }
 
 ul {list-style-type: none; 
-font-family: sans-serif;
-color: rgb(80, 34, 75);
+font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 151, 217);
 text-align:left;
-background-color: rgba(100, 80, 120, 0.266);}
+background-color: rgba(206, 157, 255, 0.446);
+font-weight: bold;}
 
 
 li {display: inline-block;
 padding: 12px;
 margin: 10px;}
 
-p { color: rgb(49, 19, 80);
+p { color: rgb(255, 198, 242);
 text-align: left;
 font-size: 22px;
-font-family: 'Franklin Gothic Medium';
+font-family: 'Times New Roman', Times, serif;
 line-height: 1.8 ;
 margin-bottom: 30px;
 padding-left: 20px;
-font-weight: bold;
+
 
